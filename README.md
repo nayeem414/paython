@@ -1,2 +1,2 @@
-# paython
-Learning Paython
+# Python
+Learning Python
